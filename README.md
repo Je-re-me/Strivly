@@ -1,2 +1,2 @@
-# Goaler
-An app designed to help achieve your goals!
+# Strivly
+Strive towards your goals with this app!
